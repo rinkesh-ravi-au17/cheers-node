@@ -1,0 +1,17 @@
+{
+  "name": "node-assignment",
+  "version": "1.0.0",
+  "description": "node assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Rinkesh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.0",
+    "express-validator": "^6.14.0"
+  }
+}
